@@ -67,7 +67,7 @@
     "postcss-load-config": "^6.0.1",
     "postcss-loader": "^8.2.1",
     "postcss-minify": "^1.2.0",
-    "sass": "^1.105.1",
+    "sass": "^1.105.2",
     "tailwindcss": "^4.3.3",
     "terser": "^5.51.2",
     "tsdown": "0.23.0",
@@ -75,7 +75,7 @@
     "type-fest": "^4.41.0",
     "typescript": "7.0.2",
     "vite": "^8.3.4",
-    "vite-plugin-singlefile": "^2.3.3",
+    "vite-plugin-singlefile": "^2.3.4",
     "vitest": "4.1.6"
   },
   "browserslist": [
